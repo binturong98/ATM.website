@@ -1,0 +1,24 @@
+/* css styles */
+
+/* Increase size of entire links toolbar */
+.about-links {
+  font-size: 1.8rem;
+}
+
+/* Make Bluesky icon blue */
+.about-link .bi-bluesky {
+  color: #0085FF;
+}
+
+/* Make GitHub icon black */
+.about-link .bi-github {
+  color: #030303;
+}
+
+/* Make GitHub icon black */
+.about-image {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important;
+  border-radius: 0 !important;
+}

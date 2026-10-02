@@ -40,5 +40,29 @@
   },
   "portfolio/Graphic Design/index.qmd": {
     "index.html": "67a4cba2"
+  },
+  "research 2.qmd": {
+    "research 2.html": "8ae68ad2"
+  },
+  "publications 2.qmd": {
+    "publications 2.html": "e874e1aa"
+  },
+  "portfolio/Graphic Design/index 2.qmd": {
+    "index 2.html": "cd320e98"
+  },
+  "portfolio/Photography/index 2.qmd": {
+    "index 2.html": "4c5b7b9a"
+  },
+  "portfolio/Watercolour/index 2.qmd": {
+    "index 2.html": "3a89ba74"
+  },
+  "portfolio/Marker/index 2.qmd": {
+    "index 2.html": "839be138"
+  },
+  "portfolio/Microscopy/index 2.qmd": {
+    "index 2.html": "c2634e3d"
+  },
+  "portfolio/Pencil/index 2.qmd": {
+    "index 2.html": "25daeb49"
   }
 }

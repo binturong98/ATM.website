@@ -8,3 +8,5 @@
 [1,"\u001B[32mGET: /portfolio.html\u001B[39m\n"]
 [1,"\u001B[32mGET: /cv.html\u001B[39m\n"]
 [1,"\u001B[32mGET: /research.html\u001B[39m\n"]
+[1,"\u001B[31mGET: /research.html (404: Not Found)\u001B[39m\n"]
+[1,"\u001B[32mGET: /research.html\u001B[39m\n"]
