@@ -1,0 +1,161 @@
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+.about-image {
+  width: 300px !important;
+  height: auto !important;
+  object-fit: contain !important;
+  border-radius: 0 !important;
+}
+
+.about-links {
+  font-size: 1.2rem;
+}
+
+/* Increase size of entire links toolbar */
+.about-links {
+  font-size: 1.8rem;
+}
+
+/* Make Bluesky icon blue */
+.about-link .bi-bluesky {
+  color: #0085FF;
+}
+
+/* Make GitHub icon black */
+.about-link .bi-github {
+  color: #030303;
+}
+
+/* 1. Make the container fill the screen height */
+.quarto-about-broadside {
+  min-height: 90vh; /* Sets height to 85% of the browser window */
+  display: flex;
+  align-items: center; /* Vertically centers the content */
+}
+
+/* 3. Increase Body Text Size */
+#quarto-content {
+  font-size: 1.15rem; 
+}
+
+/* 1. Fix the Title/Brand to the far left */
+.navbar-brand-container {
+  position: absolute;
+  left: 232px;
+}
+
+/* 2. Position the Links in the absolute center of the bar */
+.navbar-nav {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex !important;
+  flex-direction: row !important;
+  gap: 15px; /* Adds spacing between your links */
+}
+
+/* 3. Ensure the navbar container doesn't collapse now that items are absolute */
+.navbar-container {
+  position: relative;
+  min-height: 50px; /* Adjust based on your preferred navbar thickness */
+  display: flex;
+  align-items: center;
+}
+
+/* Only apply to desktops */
+@media (min-width: 768px) {
+  .navbar-nav {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
+.image-column-stack {
+  column-count: 3; /* Number of columns */
+  column-gap: 1;   /* No gap between columns */
+}
+
+/* Adjusting column parameters */
+.image-column-stack img {
+  width: 90% !important;
+  display: block;
+  margin: 1;
+  padding: 1;
+}
+
+.masonry-gallery {
+  column-count: 3;
+  column-gap: 1rem;
+}
+
+.masonry-gallery figure {
+  break-inside: avoid;   /* stops an image from splitting across columns */
+  margin: 0 0 1rem;
+}
+
+.masonry-gallery img {
+  width: 100%;
+  display: block;
+  border-radius: 6px;
+}
+
+/* fewer columns on smaller screens */
+@media (max-width: 900px) {
+  .masonry-gallery { column-count: 2; }
+}
+@media (max-width: 600px) {
+  .masonry-gallery { column-count: 1; }
+}
+
+#quarto-document-content a {
+  text-decoration: none;
+}
+
+#quarto-document-content a:hover {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.masonry-gallery figcaption {
+  color: #C1CDCD;   /* lighter than default caption text */
+  font-size: 0.9rem;
+}
+
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.portfolio-grid a {
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+  display: block;
+}
+
+.portfolio-thumb {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+}
+
+.portfolio-thumb:hover {
+  transform: scale(1.03);
+}
+
+#quarto-document-content figcaption {
+  text-align: center;
+}
+
+figure:has(img.nolightbox) figcaption {
+  text-align: center;
+}

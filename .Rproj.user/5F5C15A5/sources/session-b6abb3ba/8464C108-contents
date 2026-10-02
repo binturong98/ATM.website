@@ -1,0 +1,21 @@
+---
+title: "Portfolio"
+description: "Art and science are intertwined through observation. This is a collection of research images, photographs and my scientific and freelance illustration work."
+---
+
+::: portfolio-grid
+[![](portfolio/Microscopy/t.mar.dapi.jpg){.portfolio-thumb .nolightbox} **Microscopy**](portfolio/Microscopy/index.qmd)
+
+[![](portfolio/Pencil/t.aff.jpg){.portfolio-thumb .nolightbox} **Pencil**](portfolio/Pencil/index.qmd)
+
+[![](portfolio/Marker/c.myd.jpeg){.portfolio-thumb .nolightbox} **Marker**](portfolio/Marker/index.qmd)
+
+[![](portfolio/Digital/p.rub.png){.portfolio-thumb .nolightbox} **Digital**](portfolio/Digital/index.qmd)
+
+[![](portfolio/Photography/jacobin.jpg){.portfolio-thumb .nolightbox} **Photography**](portfolio/Photography/index.qmd)
+
+[![](portfolio/Watercolour/franc.jpg){.portfolio-thumb .nolightbox} **Watercolour**](portfolio/Watercolour/index.qmd)
+
+[![](portfolio/Graphic Design/emb.back.jpg){.portfolio-thumb .nolightbox} **Graphic Design**](portfolio/Graphic Design/index.qmd)
+
+:::

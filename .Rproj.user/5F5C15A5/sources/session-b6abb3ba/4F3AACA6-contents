@@ -1,0 +1,24 @@
+---
+title: "Microscopy"
+description: "Images captured using brightfield, confocal and electron microscopy"
+---
+
+[**Portfolio**](../../portfolio.qmd)
+
+::: masonry-gallery
+![Sunburst diving beetle (*Thermonectus marmoratus*) larval lens imaged using transmission electron microscopy. Lightly stained chitin fibrils are arranged in a darkly stained protein matrix](t.mar.larva.lens.jpg){group="Microscopy"}
+
+![Slipper limpet (*Crepidula fornicata*) veliger larva imaged using confocal microscopy. Stained with DAPI and antibodies against acetylated tubulin, ⍺-tubulin and 𝝱-catenin in cyan, red, green and blue respectively.](crepid.immuno.jpg){group="Microscopy"}
+
+![Longfin inshore squid (*Doryteuthis pealei*) embryo. Nuclei and mRNAs for *elav*, *optix*, and *pcdh17* mRNAs represented in blue, red, cyan and orange respectively. Imaged using confocal microscopy.](dory.hcr.jpg){group="Microscopy"}
+
+![Redhead pine sawfly (*Neodiprion lecontei*) larval photoreceptors. Imaged using transmission electron microscopy.](n.lec.larva.jpg){group="Microscopy"}
+
+![Red-eared slider (*Trachemys scripta*) embryo stained with acetyl-alpha tubulin, labelling neurons. Optically cleared and imaged using confocal light sheet microscopy.](turtle.jpg){group="Microscopy"}
+
+![Skeletal preparation of little skate (*Leucoraja erinacea*) embryo labelling cartilaginous tissue in blue and calcified tissue in red. Assembled using focus stacking and tile stitching.](skate.jpg){group="Microscopy"}
+
+![Differentiating neurons in a transgenic (GFP tagged neurogenin) embryonic zebrafish (*Danio rerio*) tail](neurogenin.danio.jpg){group="Microscopy"}
+
+![Artifcially colourised 3D rendering of Yucatán casque-headed tree frog (*Triprion petasatus*). Captured with Micro-CT](t.pet.jpg){group="Microscopy"}
+:::

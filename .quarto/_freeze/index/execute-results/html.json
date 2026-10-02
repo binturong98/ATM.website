@@ -1,0 +1,15 @@
+{
+  "hash": "77222ac9a065dbd1f448095306bdbef1",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Amartya Tashi Mitra\"\nimage: profile_picture.jpg\nabout:\n  template: broadside\n  links:\n    - icon: bluesky\n      text: Bluesky\n      href: https://bsky.app/profile/binturong98.bsky.social\n    - text: \"Google Scholar\"\n      href: https://scholar.google.com/citations?user=oAHsi68AAAAJ&hl=en\n    - icon: github\n      text: GitHub\n      href: https://github.com/binturong98\n    - text: \"Email\"\n      href: mailto:mitraat@mail.uc.edu\n---\n\nI am a visual systems biologist and PhD candidate at the\nUniversity of Cincinnati in \\[Elke Buschbeck's lab\\](https://www.buschbecklab.com/).\nI hold an MRes in evolution and biodiversity from University College London,\nand a BSc in zoology and biochemistry from the University of Mumbai.\n\nI study animal eyes and lenses in terms of their development and function.\nApart from research, I am a freelance artist, and use my illustrations to\nhelp visualise and communicate science.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

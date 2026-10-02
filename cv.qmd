@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+---
+
+<a class="btn btn-primary" href="Mitra_CV.pdf" target="_blank"> <i class="bi bi-file-earmark-pdf"></i> View/Download PDF in New Tab </a>
+
+::: {style="margin-top: 20px;"}
+<iframe src="ATM_CV.2026.pdf" width="100%" height="800px" style="border: 1px solid #ccc;">
+
+</iframe>
+:::

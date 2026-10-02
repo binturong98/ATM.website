@@ -1,0 +1,44 @@
+{
+  "index.qmd": {
+    "index.html": "8733d16f"
+  },
+  "about.qmd": {
+    "about.html": "55c0936f"
+  },
+  "cv.qmd": {
+    "cv.html": "d202ec27"
+  },
+  "research.qmd": {
+    "research.html": "544514db"
+  },
+  "publications.qmd": {
+    "publications.html": "7e78cb17"
+  },
+  "portfolio.qmd": {
+    "portfolio.html": "4da2e80a"
+  },
+  "portfolio/Photography/index.qmd": {
+    "index.html": "bc046f49"
+  },
+  "portfolio/Diagrams/index.qmd": {
+    "index.html": "5fbdc813"
+  },
+  "portfolio/Digital/index.qmd": {
+    "index.html": "e61073e3"
+  },
+  "portfolio/Marker/index.qmd": {
+    "index.html": "984b4170"
+  },
+  "portfolio/Pencil/index.qmd": {
+    "index.html": "d45db24d"
+  },
+  "portfolio/Microscopy/index.qmd": {
+    "index.html": "a4b1b29b"
+  },
+  "portfolio/Watercolour/index.qmd": {
+    "index.html": "99c18394"
+  },
+  "portfolio/Graphic Design/index.qmd": {
+    "index.html": "67a4cba2"
+  }
+}

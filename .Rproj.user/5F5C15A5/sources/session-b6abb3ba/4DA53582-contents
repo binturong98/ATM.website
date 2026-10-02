@@ -1,0 +1,32 @@
+project:
+  type: website
+  resources: 
+  - Mitra_CV.pdf
+
+website:
+  title: "Amartya Tashi Mitra"
+  navbar:
+    left:
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: 
+    - solar # Try 'flatly', 'lux', or 'sandstone' for a professional look
+    - custom.scss
+    toc: false
+    page-layout: full
+    lightbox: 
+      match: auto # lightbox any figure/block image automatically
+      effect: fade
+      desc-position: bottom
+      loop: true
+      
+      

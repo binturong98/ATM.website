@@ -1,0 +1,21 @@
+---
+title: "Publications"
+---
+
+## 2026
+
+Kelley M., Rathore S., Chandrasegaran K., Herbert C., Sabile C.E.G., Wood T., Joves J., Palacios A., Hamal B., Tompkin J., Susanto E., Uhran M., Ledezma-Ramírez A., Chen S., Singh K., Rust R., Solorio M.M., Khalid M.S., **Mitra A.T.**, Vinauger C., Buschbeck E.K., Limbach P.A., Benoit J.B. (2026) Microbiome derived queuine vitamers underlie tyrosine metabolism and predator avoidance in mosquito larvae. <br> [DOI: 10.1038/s42003-026-10537](https://www.nature.com/articles/s42003-026-10537-w){.btn .btn-outline-primary .btn-sm}
+
+## 2025
+
+**Mitra A.T.**, Rathore S., Jester A., Hyland-Brown R., J Hassert., Layne J.E., Benoit J.B., Stowasser A., Buschbeck E.K. (2025) Cataract induction in an arthropod reveals how lens crystallins contribute to the formation of biological glass. *PLOS One* 20.6. <br> [DOI: 10.1371/journal.pone.0325229](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325229){.btn .btn-outline-primary .btn-sm}
+
+## 2024
+
+Rathore S., **Mitra A.T.**, Hyland-Brown R., Jester A., Layne J.E., Benoit J.B., Buschbeck E.K. (2024) Osmosis as nature’s method for establishing optical alignment. *Curr. biol* 34.7: 1569-1575. <br> [DOI: 10.1016/j.cub.2024.02.052](https://doi.org/10.1016/j.cub.2024.02.052){.btn .btn-outline-primary .btn-sm} [UC Article](https://www.uc.edu/news/articles/2024/02/uc-biologists-link-water-pressure-during-development-to-beetles-amazing-vision.html){.btn .btn-outline-secondary .btn-sm}
+
+## 2022
+
+**Mitra A.T.**, Womack M.C., Gower D.J., Clark B., Streicher J.W., Bell R.C., Schott R.K., Fujita M.K., Thomas K.N. (2022) Ocular lens morphology is influenced by ecology in frogs and toads. *Proc. R. Soc. B.* 289: 20220767. <br> [DOI: 10.1098/rspb.2022.0767](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.0767){.btn .btn-outline-primary .btn-sm} [NHM Article](https://www.nhm.ac.uk/discover/news/2022/november/tadpoles-have-eye-on-future-as-vision-develops.html){.btn .btn-outline-secondary .btn-sm} [Journal Cover](https://royalsocietypublishing.org/toc/rspb/2022/289/1987){.btn .btn-outline-success .btn-sm}
+
+Rosa G.M., Botto G.A., **Mitra A.T.**, et al. (2022). Invasive fish disrupt host-pathogen dynamics leading to amphibian declines. *Biol. Conserv.* 276, 109785. <br> [DOI: 10.1016/j.biocon.2022.109785](https://doi.org/10.1016/j.biocon.2022.109785){.btn .btn-outline-primary .btn-sm}

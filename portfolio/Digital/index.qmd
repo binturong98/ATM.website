@@ -1,0 +1,20 @@
+---
+title: "Digital"
+description: "Artworks made using digital illustration softwares"
+---
+
+[**Portfolio**](../../portfolio.qmd)
+
+::: masonry-gallery
+![Asian small-clawed otter (*Aonyx cinereus*) underwater. Procreate for iPad](a.cin.png){group="Digital"} 
+
+![Indian rhinoceros (*Rhinoceros unicornis*) portrait. Procreate for iPad](r.uni.jpeg){group="Digital"} 
+
+![Clouded leopard (*Neofelis nebulosa*) portrait. ArtRage for Windows](n.neb.png){group="Digital"} 
+
+![Common kingfisher (*Alcedo atthis*) portrait. Tayasui Sketches for iPad](a.att.png){group="Digital"}
+
+![*Chrysilla volupe* jumping spider portrait. Procreate for iPad](c.vol.png){group="Digital"}
+
+![Rusty-spotted cat (*Prionailurus rubiginosus*) portrait. Procreate for iPad](p.rub.png){group="Digital"}
+:::
