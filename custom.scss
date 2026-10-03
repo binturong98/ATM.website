@@ -162,16 +162,30 @@ figure:has(img.nolightbox) figcaption {
 
 @media (max-width: 767px) {
   .navbar-brand {
-    max-width: 55% !important;
-    overflow: hidden !important;
-    text-overflow: ellipsis !important;
-    white-space: nowrap !important;
-    font-size: 0.9rem !important;
-    display: inline-block !important;
+    max-width: 68% !important;
+    overflow: visible !important;
+    text-overflow: unset !important;
+    white-space: normal !important;
+    text-align: left !important;
+    font-size: 0.85rem !important;
+    line-height: 1.15 !important;
+    margin-right: auto !important;
   }
 
-  #quarto-search,
-  .navbar-toggler {
+  #quarto-search {
     flex-shrink: 0 !important;
   }
 }
+
+@media (max-width: 767px) {
+  #quarto-header {
+    position: static !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar {
+    position: static !important;
+  }
+}
+
