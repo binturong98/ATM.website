@@ -178,14 +178,14 @@ figure:has(img.nolightbox) figcaption {
 }
 
 @media (max-width: 767px) {
-  #quarto-header {
-    position: static !important;
+  .navbar-collapse {
+    background-color: #1a1a1a !important;
+    z-index: 1050 !important;
+    padding: 0.5rem 1rem !important;
+  }
+
+  .navbar-collapse .nav-link {
+    color: #ffffff !important;
+    padding: 0.5rem 0 !important;
   }
 }
-
-@media (max-width: 767px) {
-  .navbar {
-    position: static !important;
-  }
-}
-
