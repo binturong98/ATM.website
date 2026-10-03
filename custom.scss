@@ -159,3 +159,19 @@ a {
 figure:has(img.nolightbox) figcaption {
   text-align: center;
 }
+
+@media (max-width: 767px) {
+  .navbar-brand {
+    max-width: 55% !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    font-size: 0.9rem !important;
+    display: inline-block !important;
+  }
+
+  #quarto-search,
+  .navbar-toggler {
+    flex-shrink: 0 !important;
+  }
+}
